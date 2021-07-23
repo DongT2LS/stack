@@ -14,4 +14,5 @@ int main(){
         cout<<st.top()<<" ";
         st.pop();
     }
+    printf("\nNew project!");
 }
